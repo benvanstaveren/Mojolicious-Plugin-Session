@@ -1,0 +1,14 @@
+.*
+!.gitignore
+!.perltidyrc
+*~
+blib
+Makefile*
+!Makefile.PL
+Build.PL
+META.yml
+MANIFEST*
+MANIFEST.SKIP
+pm_to_blib
+.build
+Mojolicious-Plugin-Session-*
